@@ -11,22 +11,18 @@
 
 # Circuit Diagram 
 <img width="477" height="392" alt="image" src="https://github.com/user-attachments/assets/2012bcfa-a0a2-4114-9329-de7ff9ba0a37" />
+<img width="1147" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec403045-6f29-4015-bb6e-51458fda9642" />
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+<img width="1280" height="364" alt="image" src="https://github.com/user-attachments/assets/480d57c2-7408-4505-a06c-55304437ee53" />
 
 # Graph
-
-
-# Sample images 
-
+<img width="1280" height="1211" alt="image" src="https://github.com/user-attachments/assets/48c6ee02-854b-43ea-af78-11a860c63323" />
 
 # Result
 
 Thus, the **HARTLEY OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:3.75KHZ**  
+- **(ii) Practical Frequency:3.62KHZ**  
