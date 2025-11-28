@@ -21,13 +21,16 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+<img width="1280" height="609" alt="image" src="https://github.com/user-attachments/assets/64170f4d-2d86-4d31-badb-fac78d12cb8e" />
 
 
 # Graph
 
+<img width="1092" height="1280" alt="image" src="https://github.com/user-attachments/assets/71b314b4-2a0b-4752-9010-81ee3fb0ff7a" />
 
-# Sample images 
+<img width="987" height="1280" alt="image" src="https://github.com/user-attachments/assets/8712cf38-e8c3-49e8-bdae-8f27e7fb01e0" />
 
 
 # Result
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/518ec4ba-a791-4c70-aaa8-d92393ab0498" />
 
